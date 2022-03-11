@@ -1,0 +1,13 @@
+package math;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//area do retangulo ===> A = b*h
+		
+		double a, b, h;
+
+	}
+
+}

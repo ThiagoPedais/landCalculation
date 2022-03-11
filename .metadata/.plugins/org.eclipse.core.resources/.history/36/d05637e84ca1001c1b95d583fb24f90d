@@ -1,0 +1,21 @@
+package math;
+import java.util.Scanner;
+
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//area do retangulo ===> A = b*h
+		
+		double a, b, h;
+		
+		Scanner sc = new Scanner(System.in);
+		
+		a = sc.nextDouble();
+		b = sc.nextDouble();
+		h = sc.nextDouble();
+
+	}
+
+}
